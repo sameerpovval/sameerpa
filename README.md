@@ -21,7 +21,7 @@ I love creating clean, responsive, and modern web apps that solve real problems.
 ### Book Store App (Public)
 - A full-stack MERN project for managing books.
 - Features: CRUD operations, responsive design.
-- [GitHub Repository](https://github.com/sameerpovval/Book-Store.git) 
+- https://github.com/sameerpovval/Book-Store 
 
 *Note: LMS project is private because it's a company project.*
 
