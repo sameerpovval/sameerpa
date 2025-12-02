@@ -11,7 +11,7 @@ Passionate about creating clean and modern web apps.
 
 - **Frontend:** React.js, HTML, CSS, JavaScript (ES6+)  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
+- **Database:** MongoDB, SQL
 
 ---
 
