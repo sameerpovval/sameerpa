@@ -9,10 +9,10 @@ I love creating clean, responsive, and modern web apps that solve real problems.
 
 ## 🛠 Skills & Technologies
 
-Frontend: React.js, HTML, CSS, JavaScript (ES6+)
-Backend: Node.js, Express.js
-Database: MongoDB
-Tools & Others: Git, GitHub, Postman, VS Code, REST APIs
+- **Frontend:** React.js, HTML, CSS, JavaScript (ES6+)  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, SQL
+- **Tools & Others: Git, GitHub, Postman, VS Code, REST APIs  
 
 ---
 
@@ -20,8 +20,8 @@ Tools & Others: Git, GitHub, Postman, VS Code, REST APIs
 
 ### Book Store App (Public)
 - A full-stack MERN project for managing books.
-- Features: CRUD operations, responsive design.
-- https://github.com/sameerpovval/Book-Store.git
+- Features: CRUD operations, user authentication, responsive design.
+- [GitHub Repository](https://github.com/yourusername/bookstore-app)  <!-- Replace with your repo link -->
 
 *Note: LMS project is private because it's a company project.*
 
@@ -30,5 +30,5 @@ Tools & Others: Git, GitHub, Postman, VS Code, REST APIs
 ## 📫 Contact Me
 
 - Email: [sameerpa2003@gmail.com](mailto:sameerpa2003@gmail.com)  
-- Phone : 8138030828
+- Phone: 8138030828
 
