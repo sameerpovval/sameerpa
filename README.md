@@ -2,16 +2,17 @@
 
 ### MERN Stack Developer | 1 Year Experience
 
-MERN Stack Developer with 1 year of experience building real-world web applications.  
-Passionate about creating clean and modern web apps.
+Hi! I’m Sameer, a MERN Stack Developer with 1 year of experience building full-stack web applications.
+I love creating clean, responsive, and modern web apps that solve real problems.
 
 ---
 
 ## 🛠 Skills & Technologies
 
-- **Frontend:** React.js, HTML, CSS, JavaScript (ES6+)  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, SQL
+Frontend: React.js, HTML, CSS, JavaScript (ES6+)
+Backend: Node.js, Express.js
+Database: MongoDB
+Tools & Others: Git, GitHub, Postman, VS Code, REST APIs
 
 ---
 
