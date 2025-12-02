@@ -12,7 +12,7 @@ I love creating clean, responsive, and modern web apps that solve real problems.
 - **Frontend:** React.js, HTML, CSS, JavaScript (ES6+)  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, SQL
-- **Tools & Others: Git, GitHub, Postman, VS Code, REST APIs  
+- Tools & Others: Git, GitHub, Postman, VS Code, REST APIs  
 
 ---
 
